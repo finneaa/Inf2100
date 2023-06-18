@@ -1,0 +1,44 @@
+Trace line 6: def GCD
+Trace line 12: Call function input with params ['A number: ']
+Trace line 12: Call function int with params ['3063060']
+Trace line 12: v1 = 3063060
+Trace line 13: Call function input with params ['Another number: ']
+Trace line 13: Call function int with params ['869022']
+Trace line 13: v2 = 869022
+Trace line 15: Call function GCD with params [3063060,869022]
+Trace line 7: else ...
+Trace line 10: Call function GCD with params [869022,455994]
+Trace line 7: else ...
+Trace line 10: Call function GCD with params [455994,413028]
+Trace line 7: else ...
+Trace line 10: Call function GCD with params [413028,42966]
+Trace line 7: else ...
+Trace line 10: Call function GCD with params [42966,26334]
+Trace line 7: else ...
+Trace line 10: Call function GCD with params [26334,16632]
+Trace line 7: else ...
+Trace line 10: Call function GCD with params [16632,9702]
+Trace line 7: else ...
+Trace line 10: Call function GCD with params [9702,6930]
+Trace line 7: else ...
+Trace line 10: Call function GCD with params [6930,2772]
+Trace line 7: else ...
+Trace line 10: Call function GCD with params [2772,1386]
+Trace line 7: else ...
+Trace line 10: Call function GCD with params [1386,0]
+Trace line 7: if True alt #1 ...
+Trace line 8: return 1386
+Trace line 10: return 1386
+Trace line 10: return 1386
+Trace line 10: return 1386
+Trace line 10: return 1386
+Trace line 10: return 1386
+Trace line 10: return 1386
+Trace line 10: return 1386
+Trace line 10: return 1386
+Trace line 10: return 1386
+Trace line 10: return 1386
+Trace line 15: res = 1386
+Trace line 16: Call function str with params [3063060]
+Trace line 16: Call function str with params [869022]
+Trace line 16: Call function print with params ['GCD(3063060,869022) =',1386]
